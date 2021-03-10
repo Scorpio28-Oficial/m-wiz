@@ -1,5 +1,6 @@
+# M-wiz
 
-M-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
+Es un script basado en bash que está hecho oficialmente para usuarios de termux de metasploit-framework. Desde esta herramienta, con solo un clic, puede instalar metasploit, repararlo, actualizarlo y hacer una copia de seguridad y mucho más. Esta herramienta funciona tanto en dispositivos Android rooteados como en dispositivos Android no rooteados.
 
 ## DISPONIBLE EN :
 
