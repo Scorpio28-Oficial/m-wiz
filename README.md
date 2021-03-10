@@ -1,28 +1,28 @@
 
 M-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
 
-## AVAILABLE ON :
+## DISPONIBLE EN :
 
 * Termux
 
-### TESTED ON :
+### PROBADO EN :
 
 * Termux
 
-### REQUIREMENTS :
+### REQUISITOS :
 * internet 600 MB
 * external storage permission
 * storage 1Gb
 * 1gb ram
 
-## FEATURES :
+## CARACTERISTICAS :
 * [+] Install Metasploit !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
 * [+] Repairt metasploit !
 * [+] FIxed ruby issue !
 
-## INSTALLATION [Termux] :
+## INSTALACIÓN [Termux] :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -36,53 +36,46 @@ M-wiz is a bash based script which is officially made for metasploit-framework u
 * `ls`
 * `bash m-wiz.sh`
 ```
-[+]-- Now you need internet connection to continue further process...
-[+]-- You can select any option by clicking on your keyboard
-[+]-- Note:- Don't delete any of the scripts included in core directory (folder)
+[+] - Ahora necesita conexión a Internet para continuar con el proceso ...
+[+] - Puede seleccionar cualquier opción haciendo clic en su teclado
+[+] - Nota: - No elimine ninguno de los scripts incluidos en el directorio central (carpeta)
 ```
-## USAGE OPTIONS [Termux] :
+## OPCIONES DE USO [Termux] :
 
-__METAPLOIT INSTALL__ :
-- From this option you can install metasploit-framework in termux application without any issue in just one click and the installation can take time upto 30 minutes.
+__METAPLOIT INSTALL__:
+- Desde esta opción puede instalar metasploit-framework en la aplicación termux sin ningún problema con un solo clic y la instalación puede tardar hasta 30 minutos.
 
-__IN METASLOIT v1.3__ :
-- The low end device is supported to run metasploit a new version selection option has been added for 4.4 version devices and 6.0 version devices
+__EN METASLOIT v1.3__:
+- El dispositivo de gama baja es compatible para ejecutar metasploit, se ha agregado una nueva opción de selección de versión para dispositivos de versión 4.4 y dispositivos de versión 6.0
 
-__METASPLOIT REPAIR__ :
-- From this option you can repair metasploit-framework if it's not working properly in termux application.
+__REPARACIÓN METASPLOIT__:
+- Desde esta opción puede reparar metasploit-framework si no funciona correctamente en la aplicación termux.
 
-__METASPLOIT BACKUP__ :
-- From this option you can backup your metasploit-framework into your device internal storage without any issue without losing any data.
+__ COPIA DE SEGURIDAD DE METASPLOIT__:
+- Desde esta opción, puede hacer una copia de seguridad de su marco de metasploit en el almacenamiento interno de su dispositivo sin ningún problema sin perder ningún dato.
 
-__METASPLOIT RESTORE__ :
-- From this option you can restore your backed up metasploit-framework from your internal storage.
+__METASPLOIT RESTORE__:
+- Desde esta opción, puede restaurar su marco de metasploit respaldado desde su almacenamiento interno.
 
-__METASPLOIT DELETE__ :
-- From this tool you can delete your old metasploit-framework from your termux application easyli.
+__METASPLOIT DELETE__:
+- Desde esta herramienta puede eliminar su antiguo marco de metasploit de su aplicación termux easyli.
 
-__UPDATE__ :
-- From this option you can update m-wiz tool if updates are available for that.
+__ACTUALIZAR__ :
+- Desde esta opción puede actualizar la herramienta m-wiz si hay actualizaciones disponibles para eso.
 
-__ABOUT__ :
-- From this option you can read about author.
+__SOBRE__ :
+- Desde esta opción puede leer sobre autor.
 
 __CHAT__ :
-- From this option you can chat with coder.
+- Desde esta opción puedes chatear con el codificador.
 
-__SUBSCRIBE__ :
-- From this option you can subscribe channel.
+__SUBSCRIBE__:
+- Desde esta opción puedes suscribirte al canal.
 
-__FOLLOW__ :
-- From this option you can follow technical mundeer
+__SEGUIR__ :
+- Desde esta opción puede seguir mundeer técnico
 
-__EXIT__ :
-- From this option you can exit from m-wiz tool
+__SALIDA__ :
+- Desde esta opción puede salir de la herramienta m-wiz
 
-## SCREEN SHOTS [Termux]
-
-
-## WATCH VIDEO [Termux]
-technical mundeer 
-## CONNECT WITH US :
-
-## BUY ME A COFFEE :
+## TOMAS DE PANTALLA [Termux]
