@@ -78,4 +78,10 @@ __SEGUIR__ :
 __SALIDA__ :
 - Desde esta opción puede salir de la herramienta m-wiz
 
-## TOMAS DE PANTALLA [Termux]
+## By: Scorpio28
+
+__Informatic in Termux__ :
+
+https://t.me/Informatic_in_Termux_1
+
+__ACLARO ESTA HERRAMIENTA NO ES MIA SOLO LA EDITE Y MODIFIQUE UN POCO__ :
