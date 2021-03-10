@@ -51,13 +51,13 @@ __EN METASLOIT v1.3__:
 __REPARACIÓN METASPLOIT__:
 - Desde esta opción puede reparar metasploit-framework si no funciona correctamente en la aplicación termux.
 
-__ COPIA DE SEGURIDAD DE METASPLOIT__:
+__COPIA DE SEGURIDAD DE METASPLOIT__:
 - Desde esta opción, puede hacer una copia de seguridad de su marco de metasploit en el almacenamiento interno de su dispositivo sin ningún problema sin perder ningún dato.
 
-__METASPLOIT RESTORE__:
+__METASPLOIT RESTAURARE__:
 - Desde esta opción, puede restaurar su marco de metasploit respaldado desde su almacenamiento interno.
 
-__METASPLOIT DELETE__:
+__METASPLOIT TU TRABAJAS__:
 - Desde esta herramienta puede eliminar su antiguo marco de metasploit de su aplicación termux easyli.
 
 __ACTUALIZAR__ :
