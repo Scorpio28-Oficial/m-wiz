@@ -30,10 +30,9 @@ M-wiz is a bash based script which is officially made for metasploit-framework u
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `cd $HOME`
-* `ls`
+* `git clone https://github.com/Scorpio28-Oficial/m-wiz`
 * `cd m-wiz`
-* `ls`
+* `chmod 777 m-wiz.sh`
 * `bash m-wiz.sh`
 ```
 [+] - Ahora necesita conexión a Internet para continuar con el proceso ...
