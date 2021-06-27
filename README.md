@@ -1,4 +1,7 @@
 # M-wiz
+<p align="center">
+ <img src="https://i.imgur.com/Jxaneeq.jpg" width="600px">
+</p>
 
 Es un script basado en bash que está hecho oficialmente para usuarios de termux de metasploit-framework. Desde esta herramienta, con solo un clic, puede instalar metasploit, repararlo, actualizarlo y hacer una copia de seguridad y mucho más. Esta herramienta funciona tanto en dispositivos Android rooteados como en dispositivos Android no rooteados.
 
@@ -25,16 +28,26 @@ Es un script basado en bash que está hecho oficialmente para usuarios de termux
 
 ## INSTALACIÓN [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* `git clone https://github.com/Scorpio28-Oficial/m-wiz`
-* `cd m-wiz`
-* `chmod 777 m-wiz.sh`
-* `bash m-wiz.sh`
+```
+* apt-get update -y
+
+* pkt-get upgrade -y
+
+* pkg install python -y
+
+* pkg install python2 -y
+
+* pkg install git -y
+
+* pip install lolcat
+
+* git clone https://github.com/Scorpio28-Oficial/m-wiz
+
+* cd m-wiz
+
+* chmod 777 m-wiz.sh
+
+* bash m-wiz.sh
 ```
 [+] - Ahora necesita conexión a Internet para continuar con el proceso ...
 [+] - Puede seleccionar cualquier opción haciendo clic en su teclado
