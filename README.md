@@ -1,6 +1,6 @@
 # M-wiz
 <p align="center">
- <img src="https://i.imgur.com/Jxaneeq.jpg" width="600px">
+ <img src="https://i.imgur.com/uyf3QGy.jpg" width="600px">
 </p>
 
 Es un script basado en bash que está hecho oficialmente para usuarios de termux de metasploit-framework. Desde esta herramienta, con solo un clic, puede instalar metasploit, repararlo, actualizarlo y hacer una copia de seguridad y mucho más. Esta herramienta funciona tanto en dispositivos Android rooteados como en dispositivos Android no rooteados.
